@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1402013815 source:c:\documents and settings\w³aœciciel\pulpit\skb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"glowa.h"
+	"gra.h"
+	"edycja.h"
+	"wczytanie.h"
+
+1402012761 c:\documents and settings\w³aœciciel\pulpit\skb\glowa.h
+	<allegro.h>
+	<stdio.h>
+	<dirent.h>
+	<errno.h>
+
+1402012857 source:c:\documents and settings\w³aœciciel\pulpit\skb\menu.c
+	"glowa.h"
+
+1402009485 source:c:\documents and settings\w³aœciciel\pulpit\skb\gra.c
+	"gra.h"
+
+1402013815 c:\documents and settings\w³aœciciel\pulpit\skb\gra.h
+	<allegro.h>
+	<stdio.h>
+
+1402009049 source:c:\documents and settings\w³aœciciel\pulpit\skb\edycja.c
+	"edycja.h"
+
+1401323198 c:\documents and settings\w³aœciciel\pulpit\skb\edycja.h
+	<allegro.h>
+	<stdio.h>
+
+1401830107 source:c:\documents and settings\w³aœciciel\pulpit\skb\zapis.c
+	"edycja.h"
+
+1401823213 source:c:\documents and settings\w³aœciciel\pulpit\skb\wczytanie.c
+	"wczytanie.h"
+	<dirent.h>
+
+1402009094 c:\documents and settings\w³aœciciel\pulpit\skb\wczytanie.h
+	<allegro.h>
+	<stdio.h>
+	<dirent.h>
+	<errno.h>
+
+1401998119 source:c:\documents and settings\w³aœciciel\pulpit\skb\autosave.c
+	"gra.h"
+
+1401863491 source:c:\documents and settings\w³aœciciel\pulpit\skb\wczytywanie.c
+	"glowa.h"
+	<dirent.h>
+
+1401998119 source:c:\documents and settings\w³aœciciel\pulpit\sokoban piotr\autosave.c
+	"gra.h"
+
+1402013815 c:\documents and settings\w³aœciciel\pulpit\sokoban piotr\gra.h
+	<allegro.h>
+	<stdio.h>
+
+1402047216 source:c:\documents and settings\w³aœciciel\pulpit\sokoban piotr\edycja.c
+	"edycja.h"
+
+1401323198 c:\documents and settings\w³aœciciel\pulpit\sokoban piotr\edycja.h
+	<allegro.h>
+	<stdio.h>
+
+1402049156 source:c:\documents and settings\w³aœciciel\pulpit\sokoban piotr\gra.c
+	"gra.h"
+
+1402013815 source:c:\documents and settings\w³aœciciel\pulpit\sokoban piotr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"glowa.h"
+	"gra.h"
+	"edycja.h"
+	"wczytanie.h"
+
+1402012761 c:\documents and settings\w³aœciciel\pulpit\sokoban piotr\glowa.h
+	<allegro.h>
+	<stdio.h>
+	<dirent.h>
+	<errno.h>
+
+1402009094 c:\documents and settings\w³aœciciel\pulpit\sokoban piotr\wczytanie.h
+	<allegro.h>
+	<stdio.h>
+	<dirent.h>
+	<errno.h>
+
+1402012857 source:c:\documents and settings\w³aœciciel\pulpit\sokoban piotr\menu.c
+	"glowa.h"
+
+1401823213 source:c:\documents and settings\w³aœciciel\pulpit\sokoban piotr\wczytanie.c
+	"wczytanie.h"
+	<dirent.h>
+
+1401863491 source:c:\documents and settings\w³aœciciel\pulpit\sokoban piotr\wczytywanie.c
+	"glowa.h"
+	<dirent.h>
+
+1401830107 source:c:\documents and settings\w³aœciciel\pulpit\sokoban piotr\zapis.c
+	"edycja.h"
+
